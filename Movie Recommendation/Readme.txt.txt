@@ -1,5 +1,3 @@
-video demonstration: https://youtu.be/C__B1OlXXhM
-
 database file name: movie_recommendation.db
 database file location: Final Project Movie Recommendation folder
 
